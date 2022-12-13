@@ -14,7 +14,3 @@ int binary_tree_is_root(const binary_tree_t *node)
 
 	return (1);
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Term
